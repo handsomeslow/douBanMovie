@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="设置"
+        android:id="@+id/action_setting"/>
+
+    <item android:id="@+id/action_test"
+        android:title="unsubscribe"/>
+
+    <item android:id="@+id/action_again_subscribe"
+        android:title="subscribe"/>
+
+    <item android:id="@+id/action_add_localpic"
+        android:title="ZIP"/>
+
+</menu>
