@@ -6,11 +6,11 @@ android {
     buildToolsVersion "24.0.0"
 
     defaultConfig {
-        applicationId "com.example.junxu.rxjava"
+        applicationId "com.jx.RxMovie"
         minSdkVersion 14
         targetSdkVersion 23
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "2.0"
     }
     buildTypes {
         release {
